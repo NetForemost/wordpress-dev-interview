@@ -5,8 +5,10 @@
 Develop a local WordPress blog website using the latest version of WordPress, Elementor and Astra. The site will feature articles, and this expected design.
 The design should match the following design as closely as possible, however the colors, fonts, and animations are up to the developer's discretion. This test is designed to be completed in no more than 1 hour and 30 minutes. The time begins to run after the initial installation of WordPress on your local server. It is recommended to have XAMPP, WAMP, MAMP, Laragon, or your preferred toolset installed to complete this test.
 
+##### Home
 ![Home Page](img/home.jpeg)
 
+##### Single Page
 ![Single Page](img/single.jpeg)
 
 
