@@ -19,6 +19,5 @@ The design should match the following design as closely as possible, however the
     - Categories: An article can have more than one category.
     - Content (excerpt of the text, author, and date of article creation.)
     - Top bar that will display the created categories. It can be considered as a header or navigation menu. (When pressing on any of the buttons, it should filter the articles by their category.)
-- Article detail or single page, the design to follow can be found on page 3. On this page, the detailed information of the selected article will be displayed, as well as the possibility to navigate to the next or previous one.
+- Article detail or single page. On this page, the detailed information of the selected article will be displayed, as well as the possibility to navigate to the next or previous one.
 - The website should have a footer with the developer's data.
-
